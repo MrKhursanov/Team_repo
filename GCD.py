@@ -5,5 +5,7 @@ def GCD(a,b):
 
 print('hi, world') 
 
+# This algorithm is pretty usefull
+
 
 print(GCD(8,4))
