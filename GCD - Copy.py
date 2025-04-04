@@ -7,4 +7,6 @@ print('hi, world')
 
 # This algorithm is pretty usefull
 
+# Later, I will upload new usefull link.
+
 print(GCD(8,4))
